@@ -14,7 +14,7 @@
 		"url": "git+https://github.com/ksfreitas/sequelize-paper-trail.git"
 	},
 	"bugs": {
-		"url": "https://github.com/ksfreitas/sequelize-paper-trail/issues",
+		"url": "https://github.com/ksfreitas/sequelize-paper-trail/issues"
 	},
 	"private": false,
 	"keywords": [
