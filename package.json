@@ -1,5 +1,5 @@
 {
-	"name": "ksfreitas-sequelize-paper-trail",
+	"name": "codebit-sequelize-paper-trail",
 	"version": "3.0.1",
 	"description": "Track changes to your Sequelize models data. Perfect for auditing or versioning.",
 	"author": {
@@ -8,13 +8,13 @@
 		"url": "https://nielsgl.com"
 	},
 	"license": "MIT",
-	"homepage": "https://github.com/ksfreitas/sequelize-paper-trail#readme",
+	"homepage": "https://github.com/bibliotecas-codebit/sequelize-paper-trail#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ksfreitas/sequelize-paper-trail.git"
+		"url": "git+https://github.com/bibliotecas-codebit/sequelize-paper-trail.git"
 	},
 	"bugs": {
-		"url": "https://github.com/ksfreitas/sequelize-paper-trail/issues"
+		"url": "https://github.com/bibliotecas-codebit/sequelize-paper-trail/issues"
 	},
 	"private": false,
 	"keywords": [
